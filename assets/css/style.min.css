@@ -3392,3 +3392,13 @@ footer img {
 .fa-chevron-right {
   color: white;
 }
+
+.swiper-pagination-bullet {
+  background-color: gray !important;
+  margin-top: 700px !important;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #f5610c !important;
+}
