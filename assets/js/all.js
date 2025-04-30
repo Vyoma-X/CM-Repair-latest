@@ -344,3 +344,5 @@ document
     console.log("Hello")
     alert("Thankyou for subscribing")
   }
+
+        // Proper dropdown initialization
