@@ -1007,7 +1007,7 @@ a.text-dark:hover,
   -webkit-transition: 0.3s;
   height: 15vh;
   transition: 0.3s;
-  margin: auto;
+  /* margin: auto; */
 }
 .home-4 .brand-carousel img:hover {
   -webkit-filter: contrast(1);
@@ -2661,7 +2661,7 @@ a.text-dark:hover,
 }
 @media (max-width: 575px) {
   .cm-team .team-img {
-    width: 250px !important;
+    width: full !important;
   }
 }
 .cm-team .owl-nav .owl-prev {
