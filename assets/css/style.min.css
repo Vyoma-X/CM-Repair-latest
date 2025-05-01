@@ -3149,6 +3149,7 @@ a.scroll-to-top.show:hover {
   .testimonial-client-info {
     flex-direction: column;
     text-align: center;
+
   }
 
   .testimonial-client-details {
@@ -3167,6 +3168,12 @@ a.scroll-to-top.show:hover {
 
   .testimonial-slide {
     padding: 0 10px;
+  }
+}
+
+@media (max-width: 700px){
+  .testimonial-client-info img{
+    margin-left:20px
   }
 }
 
