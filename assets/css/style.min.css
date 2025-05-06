@@ -3196,7 +3196,7 @@ a.scroll-to-top.show:hover {
   padding: 20px;
 }
 .swiper-slide {
-  height: auto;
+  height: 100%;
 }
 
 @media (max-width: 768px) {
